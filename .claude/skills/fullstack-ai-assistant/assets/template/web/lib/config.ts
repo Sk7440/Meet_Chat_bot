@@ -6,7 +6,7 @@ export const APP_CONFIG = {
   appName: "Assistant",
   appDescription: "AI assistant powered by local and cloud models",
   user: {
-    name: "Rizwan",
+    name: "Sultan",
     subtitle: "Workspace",
   },
 } as const;
